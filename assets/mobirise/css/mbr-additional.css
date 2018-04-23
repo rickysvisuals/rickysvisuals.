@@ -1268,7 +1268,7 @@ body {
   width: 100%;
   height: 100%;
   background: #232323;
-  background: linear-gradient(to left, #232323, #cccccc) !important;
+  background: linear-gradient(to left, #232323, #232323) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -1277,7 +1277,7 @@ body {
   background: transparent !important;
 }
 .cid-qOKSYdRuUw .mbr-gallery-item > div:hover:before {
-  opacity: 0.5 !important;
+  opacity: 0.7 !important;
 }
 .cid-qOKSYdRuUw .mbr-gallery-item > div:hover .icon-focus {
   top: calc(50% - 24px);
@@ -1347,8 +1347,8 @@ body {
   z-index: -1;
   position: absolute;
   background: #232323 !important;
-  background: linear-gradient(to left, #232323, #cccccc) !important;
-  opacity: 0.5;
+  background: linear-gradient(to left, #232323, #232323) !important;
+  opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
@@ -1387,6 +1387,10 @@ body {
 .cid-qOKSYdRuUw .mbr-section-title,
 .cid-qOKSYdRuUw .underline B {
   color: #ff4100;
+}
+.cid-qOKSYdRuUw .mbr-gallery-item > div > span {
+  color: #ff4100;
+  text-align: left;
 }
 .cid-qOKtWSOPPP .navbar {
   min-height: 77px;
