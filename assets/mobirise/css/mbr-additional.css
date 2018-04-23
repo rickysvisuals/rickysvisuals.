@@ -1,9 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Saira:100,200,300,400,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Sunflower:300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Days+One:400);
-@import url(https://fonts.googleapis.com/css?family=Audiowide:400);
-
-
 
 
 
@@ -24,11 +20,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Saira', sans-serif;
-  font-size: 4.2rem;
+  font-family: 'kimberley bl';
+  font-size: 4.1rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.72rem;
+  font-size: 6.56rem;
 }
 .display-2 {
   font-family: 'Sunflower', sans-serif;
@@ -52,11 +48,11 @@ body {
   font-size: 1.6rem;
 }
 .display-7 {
-  font-family: 'Audiowide', display;
-  font-size: 1.6rem;
+  font-family: 'Painting_With_Chocolate';
+  font-size: 2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 3.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -65,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.36rem;
-    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.28rem;
+    font-size: calc( 2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
@@ -660,14 +656,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Audiowide', display;
-  font-size: 1.6rem;
+  font-family: 'Painting_With_Chocolate';
+  font-size: 2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 3.2rem;
 }
 .form-control,
 .form-control:focus {
@@ -1117,7 +1113,7 @@ body {
   text-align: left;
 }
 .cid-qOKvp7rJMY SPAN {
-  text-align: right;
+  text-align: center;
 }
 .cid-qOKvp7rJMY .mbr-section-text,
 .cid-qOKvp7rJMY .mbr-section-btn {
@@ -1127,6 +1123,15 @@ body {
 .cid-qOKvp7rJMY .mbr-section-text,
 .cid-qOKvp7rJMY .mbr-section-btn P {
   text-align: center;
+}
+.cid-qOKvp7rJMY P {
+  text-align: left;
+}
+.cid-qOKvp7rJMY .mbr-section-title P {
+  text-align: right;
+}
+.cid-qOKvp7rJMY B {
+  color: #ffffff;
 }
 .cid-qOKLrsTWb8 {
   padding-top: 0px;
