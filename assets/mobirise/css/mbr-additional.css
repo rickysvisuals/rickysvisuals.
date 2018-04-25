@@ -22,10 +22,10 @@ body {
 }
 .display-1 {
   font-family: 'kimberley bl';
-  font-size: 4.78rem;
+  font-size: 4.7rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 7.648rem;
+  font-size: 7.52rem;
 }
 .display-2 {
   font-family: 'Sunflower', sans-serif;
@@ -36,10 +36,10 @@ body {
 }
 .display-4 {
   font-family: 'Sunflower', sans-serif;
-  font-size: 1.186rem;
+  font-size: 1.23rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.8976rem;
+  font-size: 1.968rem;
 }
 .display-5 {
   font-family: 'Days One', sans-serif;
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.824rem;
-    font-size: calc( 2.323rem + (4.78 - 2.323) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.323rem + (4.78 - 2.323) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.76rem;
+    font-size: calc( 2.295rem + (4.7 - 2.295) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.295rem + (4.7 - 2.295) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.808rem;
@@ -72,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1.4409999999999998rem + (2.26 - 1.4409999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.9488rem;
-    font-size: calc( 1.0651rem + (1.186 - 1.0651) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0651rem + (1.186 - 1.0651) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.984rem;
+    font-size: calc( 1.0805rem + (1.23 - 1.0805) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0805rem + (1.23 - 1.0805) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.8rem;
@@ -135,7 +135,7 @@ body {
   background-color: #ab2b00 !important;
 }
 .bg-success {
-  background-color: #03426a !important;
+  background-color: #07b30b !important;
 }
 .bg-info {
   background-color: #ff4100 !important;
@@ -209,22 +209,22 @@ body {
 .btn-success,
 .btn-success:active,
 .btn-success.active {
-  background-color: #03426a !important;
-  border-color: #03426a !important;
+  background-color: #07b30b !important;
+  border-color: #07b30b !important;
   color: #ffffff !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus {
   color: #ffffff !important;
-  background-color: #011420 !important;
-  border-color: #011420 !important;
+  background-color: #046906 !important;
+  border-color: #046906 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #011420 !important;
-  border-color: #011420 !important;
+  background-color: #046906 !important;
+  border-color: #046906 !important;
 }
 .btn-warning,
 .btn-warning:active,
@@ -373,21 +373,21 @@ body {
 .btn-success-outline:active,
 .btn-success-outline.active {
   background: none;
-  border-color: #000407;
-  color: #000407 !important;
+  border-color: #035105;
+  color: #035105 !important;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus {
   color: #ffffff !important;
-  background-color: #03426a;
-  border-color: #03426a;
+  background-color: #07b30b;
+  border-color: #07b30b;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #03426a !important;
-  border-color: #03426a !important;
+  background-color: #07b30b !important;
+  border-color: #07b30b !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active,
@@ -470,7 +470,7 @@ body {
   color: #ffffff !important;
 }
 .text-success {
-  color: #03426a !important;
+  color: #07b30b !important;
 }
 .text-info {
   color: #ff4100 !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #000407 !important;
+  color: #035105 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -573,7 +573,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #078fe6;
+  color: #42f846;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
