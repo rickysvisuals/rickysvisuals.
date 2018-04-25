@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Sunflower:300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Days+One:400);
-@import url(https://fonts.googleapis.com/css?family=Russo+One:400);
 
 
 
@@ -50,11 +49,11 @@ body {
   font-size: 1.6rem;
 }
 .display-7 {
-  font-family: 'Russo One', sans-serif;
-  font-size: 0.96rem;
+  font-family: 'Days One', sans-serif;
+  font-size: 0.86rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.536rem;
+  font-size: 1.376rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -672,14 +671,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Russo One', sans-serif;
-  font-size: 0.96rem;
+  font-family: 'Days One', sans-serif;
+  font-size: 0.86rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.536rem;
+  font-size: 1.376rem;
 }
 .form-control,
 .form-control:focus {
