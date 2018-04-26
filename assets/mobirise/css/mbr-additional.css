@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Sunflower', sans-serif;
-  font-size: 1.04rem;
+  font-size: 1.05rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.664rem;
+  font-size: 1.68rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -673,13 +673,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Sunflower', sans-serif;
-  font-size: 1.04rem;
+  font-size: 1.05rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.664rem;
+  font-size: 1.68rem;
 }
 .form-control,
 .form-control:focus {
@@ -1447,17 +1447,17 @@ body {
 .cid-qOKSYdRuUw .underline .line {
   width: 3rem;
   height: 2px;
-  background: #333333;
+  background: #e63a00;
   display: inline-block;
 }
 .cid-qOKSYdRuUw .mbr-section-title,
 .cid-qOKSYdRuUw .underline {
-  color: #ff4100;
+  color: #03426a;
   text-align: center;
 }
 .cid-qOKSYdRuUw .mbr-section-title,
 .cid-qOKSYdRuUw .underline B {
-  color: #ff4100;
+  color: #000000;
 }
 .cid-qOKSYdRuUw .mbr-gallery-item > div > span {
   color: #ff4100;
