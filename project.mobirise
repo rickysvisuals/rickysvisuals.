@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ricky's Visuals",
-    "currentPage": "home.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -1425,19 +1425,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Videos",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-12-42-0-515438.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=BqLfCzcwRkg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-2",
-                "caption": "<br><br><br><b><br><br>Music Videos</b>",
-                "active": false
-              },
-              {
                 "tags": "Photos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1474,33 +1461,72 @@
                 "title": "",
                 "customStyle1": "display-2",
                 "caption": "<br><br><br><br><br><b>Video</b>",
+                "active": false
+              },
+              {
+                "tags": "Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-12-42-0-515438.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=BqLfCzcwRkg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-2",
+                "caption": "<br><br><br><b><br><br>Music Videos</b>",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992-800x510.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-2",
+                "caption": "<br><br><br><br><br><b>Photos</b>",
+                "active": false
+              },
+              {
+                "tags": "Photos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/salemhalloween-1-2000x2593.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/salemhalloween-1-2000x2593-800x785.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-2",
+                "caption": "<br><br><br><br><br><b><br></b><br><b>Photos</b>",
+                "active": false
+              },
+              {
+                "tags": "Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-14-17-24-465750.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ro_0FW4-8GY",
+                "image": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992-800x510.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-2",
+                "caption": "<br><br><br><br><br><b>Videos</b>",
+                "active": false
+              },
+              {
+                "tags": "Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-14-20-4-709568.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=DusGkKaXXFM",
+                "image": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tedsalem1-1-2000x992-800x510.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-2",
+                "caption": "<br><br><br><br><br><b>Videos</b>",
                 "active": true
-              },
-              {
-                "tags": "Photos",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-1793-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1793-2000x1333-800x476.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-2",
-                "caption": "<br><br><br><br><br><b>Photos</b>",
-                "active": false
-              },
-              {
-                "tags": "Photos",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-1793-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1793-2000x1333-800x476.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-2",
-                "caption": "<br><br><br><br><br><b>Photos</b>",
-                "active": false
               }
             ]
           }
