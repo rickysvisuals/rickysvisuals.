@@ -52,10 +52,10 @@ body {
 }
 .display-7 {
   font-family: 'Audiowide', display;
-  font-size: 0.945rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.512rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -674,13 +674,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Audiowide', display;
-  font-size: 0.945rem;
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.512rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
