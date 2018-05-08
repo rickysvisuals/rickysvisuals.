@@ -1846,7 +1846,7 @@ body {
 }
 .cid-qQ1E8D3Djk .mbr-section-title,
 .cid-qQ1E8D3Djk .underline B {
-  color: #e01ba2;
+  color: #c1c1c1;
 }
 .cid-qQ1E8D3Djk .mbr-gallery-item > div > span {
   text-align: center;
@@ -2118,9 +2118,7 @@ body {
   }
 }
 .cid-qQUoQR2SnA {
-  padding-top: 150px;
-  padding-bottom: 150px;
-  background-image: url("../../../assets/images/image17096-2-1560x903.jpg");
+  background-image: url("../../../assets/images/background-1529x893.jpg");
 }
 .cid-qQUoQR2SnA .row {
   margin-left: -5rem;
@@ -2156,6 +2154,34 @@ body {
   .cid-qQUoQR2SnA .slider-text-two {
     outline: 15px solid rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+}
+.cid-qQUoQR2SnA .mbr-section-title {
+  text-align: center;
+}
+.cid-qRqRFv1ck1 {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/rickruff-1-1366x768.jpg");
+}
+.cid-qRqRFv1ck1 .text {
+  letter-spacing: 0.03em;
+  line-height: 1.7;
+}
+.cid-qRqRFv1ck1 .mbr-text {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 991px) {
+  .cid-qRqRFv1ck1 .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-qRqRFv1ck1 .content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
   }
 }
 .cid-qOKtWSOPPP .navbar {
@@ -2690,10 +2716,40 @@ body {
     flex-basis: auto;
   }
 }
+.cid-qRqVf1eXqn {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/huayi-dark-blue-backdrop-photography-background-newborn-backdrop-solid-photography-backgroundxt4675.jpg-640x640-500x500.jpg");
+}
+.cid-qRqVf1eXqn .text {
+  letter-spacing: 0.03em;
+  line-height: 1.7;
+}
+.cid-qRqVf1eXqn .mbr-text {
+  width: 100%;
+  height: auto;
+  text-align: left;
+}
+@media (max-width: 991px) {
+  .cid-qRqVf1eXqn .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-qRqVf1eXqn .content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+.cid-qRqVf1eXqn .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-qQUtBM7sqs {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 45px;
-  background: #ffffff;
+  background: #0c0b0b;
 }
 .cid-qQUtBM7sqs .images-container.container-fluid {
   padding: 0;
@@ -2746,5 +2802,30 @@ body {
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .cid-qQUtBM7sqs .media-container-row .img-item {
     flex-direction: row;
+  }
+}
+.cid-qRr8Vpf4Ef {
+  padding-top: 75px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/ectv-oh-122-2000x1333.jpg");
+}
+.cid-qRr8Vpf4Ef .text {
+  letter-spacing: 0.03em;
+  line-height: 1.7;
+}
+.cid-qRr8Vpf4Ef .mbr-text {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 991px) {
+  .cid-qRr8Vpf4Ef .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-qRr8Vpf4Ef .content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
   }
 }
